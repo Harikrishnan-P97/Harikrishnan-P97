@@ -56,7 +56,6 @@ A security operations lab integrating SIEM monitoring, network security, alert a
 - Connected Slack for security alert notifications.
 - Implemented automated endpoint containment using LimaCharlie.
 
-### 3. SOAR-EDR Home Lab
 ### 3. SOAR + EDR Home Lab
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
 
@@ -67,7 +66,6 @@ A hands-on security automation and endpoint response environment exploring the i
 - Practiced security orchestration and containment workflows.
 
 ### 4. CliHax – Cybersecurity CLI Tool
-### 4. CliHax – Cybersecurity CLI Tool
 [GitHub Repository](https://github.com/Harikrishnan-P97/clihax)
 
 A Python-based command-line cybersecurity tool focused on developing practical security utilities and improving command-line workflows.
@@ -75,3 +73,24 @@ A Python-based command-line cybersecurity tool focused on developing practical s
 - Developed a structured CLI application using Python.
 - Worked with Poetry for dependency and project management.
 - Focused on usability, maintainability, and professional project structure.
+## Certifications & Learning
+
+### Professional Certifications & Practical Training
+
+- **Certified Ethical Hacker (CEH v12)** – EC-Council
+- **Practical Ethical Hacking (PEH)** – TCM Security
+- **Security Analyst Level 1 (SAL1)** – TryHackMe *(Training Completion)*
+
+### Security & Technical Training
+
+- **Foundations of Operationalizing MITRE ATT&CK** – AttackIQ
+- **Splunk: Zero to Power User** – Udemy
+- **Introduction to Splunk** – Splunk
+- **Using Fields in Splunk** – Splunk
+- **Cisco Cybersecurity Training** – Cisco Networking Academy
+- **NDG Linux Certifications** – Cisco Networking Academy
+- **Complete Python Bootcamp: From Zero to Hero** – Udemy
+
+### Additional Learning
+
+Continuously expanding my knowledge through hands-on labs, cybersecurity training, detection engineering exercises, and practical security research.
