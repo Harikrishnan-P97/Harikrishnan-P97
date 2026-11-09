@@ -94,3 +94,22 @@ A Python-based command-line cybersecurity tool focused on developing practical s
 ### Additional Learning
 
 Continuously expanding my knowledge through hands-on labs, cybersecurity training, detection engineering exercises, and practical security research.
+## Connect With Me
+
+I'm always open to connecting with cybersecurity professionals, discussing security research, sharing knowledge, and exploring opportunities in Security Operations and Blue Teaming.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harikrishnanp097">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@harikrishnan.p097">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6">
+    <img src="https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
+
+**Email:** [harikrishnan.p097@gmail.com](mailto:harikrishnan.p097@gmail.com)
+
+**Portfolio Website:** Coming Soon
