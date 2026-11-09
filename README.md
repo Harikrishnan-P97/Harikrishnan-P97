@@ -110,6 +110,17 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
   </a>
 </p>
 
+### Hands-on Learning
+
+<p align="left">
+  <a href="https://tryhackme.com/p/harikrishnan.p097">
+    <img src="https://img.shields.io/badge/TryHackMe-Blue%20Team-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/LordNumbnuts">
+    <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-8B2635?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
 **Email:** [harikrishnan.p097@gmail.com](mailto:harikrishnan.p097@gmail.com)
 
 **Portfolio Website:** Coming Soon
