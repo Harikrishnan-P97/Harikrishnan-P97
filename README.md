@@ -80,27 +80,30 @@ A Python-based command-line reference manager designed for penetration testers t
 - Used **Poetry** for dependency management and project packaging.
 - Focused on maintainability, usability, and clean project structure.
 
-## Certifications & Learning
+## Certifications & Professional Training
 
-### Professional Certifications & Practical Training
+### Professional Certifications
 
 - **Certified Ethical Hacker (CEH v12)** – EC-Council
 - **Practical Ethical Hacking (PEH)** – TCM Security
-- **Security Analyst Level 1 (SAL1)** – TryHackMe *(Training Completion)*
 
-### Security & Technical Training
+### Security Training & Completion Certificates
 
+- **Security Analyst Level 1 (SAL1)** – TryHackMe
 - **Foundations of Operationalizing MITRE ATT&CK** – AttackIQ
+- **Cisco Cybersecurity Training** – Cisco
+- **NDG Linux Certifications** – Cisco Networking Academy
+
+### Technical Courses
+
 - **Splunk: Zero to Power User** – Udemy
 - **Introduction to Splunk** – Splunk
 - **Using Fields in Splunk** – Splunk
-- **Cisco Cybersecurity Training** – Cisco Networking Academy
-- **NDG Linux Certifications** – Cisco Networking Academy
 - **Complete Python Bootcamp: From Zero to Hero** – Udemy
 
-### Additional Learning
+### Continuous Learning
 
-Continuously expanding my knowledge through hands-on labs, cybersecurity training, detection engineering exercises, and practical security research.
+Continuously developing practical cybersecurity skills through hands-on labs, security research, attack simulations, detection engineering, and incident response exercises.
 
 ## Connect With Me
 
