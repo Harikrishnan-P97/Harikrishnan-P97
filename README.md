@@ -35,23 +35,43 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 ## Featured Projects
 
 ### 1. SOC Active Directory Detection & Incident Response Lab
-[View Repository](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
+[GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
 
-A hands-on Active Directory SOC lab focused on attack simulation, detection engineering, threat hunting, and incident response.
+A hands-on Active Directory SOC environment focused on attack simulation, detection engineering, threat hunting, and incident response.
 
-- Built a Windows Active Directory environment with centralized security monitoring using Wazuh.
+- Built a Windows Active Directory environment with centralized monitoring using Wazuh.
 - Developed and validated **42 custom Wazuh detection rules**.
-- Created **7 SOC dashboards** for security monitoring and threat investigation.
-- Documented **7 incident response playbooks** covering investigation and response workflows.
-- Mapped detection scenarios to MITRE ATT&CK techniques.
+- Created **7 SOC dashboards** for security monitoring and investigation.
+- Documented **7 incident response playbooks**.
+- Mapped detection scenarios to MITRE ATT&CK.
 
 ### 2. SOC Automation & Detection Engineering Lab
-[View Repository](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
+[GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
 
-A security operations lab integrating SIEM monitoring, detection engineering, alert automation, and incident response workflows.
+A security operations lab integrating SIEM monitoring, network security, alert automation, and incident response workflows.
 
-- Integrated Splunk, Suricata, and ModSecurity for centralized security monitoring.
+- Integrated Splunk, Suricata, and ModSecurity for security monitoring.
 - Built automated alert workflows using n8n.
-- Integrated Grafana for SOC alert visualization and monitoring.
-- Implemented automated incident containment workflows using LimaCharlie.
-- Simulated attacks and investigated security alerts to validate detection and response workflows.
+- Integrated Grafana for SOC alert visualization.
+- Connected Slack for security alert notifications.
+- Implemented automated endpoint containment using LimaCharlie.
+
+### 3. SOAR-EDR Home Lab
+### 3. SOAR + EDR Home Lab
+[GitHub Repository](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
+
+A hands-on security automation and endpoint response environment exploring the integration of detection, alerting, orchestration, and endpoint containment.
+
+- Explored automated security alert handling and response workflows.
+- Worked with endpoint detection and response concepts.
+- Practiced security orchestration and containment workflows.
+
+### 4. CliHax – Cybersecurity CLI Tool
+### 4. CliHax – Cybersecurity CLI Tool
+[GitHub Repository](https://github.com/Harikrishnan-P97/clihax)
+
+A Python-based command-line cybersecurity tool focused on developing practical security utilities and improving command-line workflows.
+
+- Developed a structured CLI application using Python.
+- Worked with Poetry for dependency and project management.
+- Focused on usability, maintainability, and professional project structure.
