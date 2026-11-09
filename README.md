@@ -9,6 +9,14 @@
 
 <br/>
 
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#technical-skills">Skills</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#certifications--professional-training">Certifications</a> •
+  <a href="#connect-with-me">Contact</a>
+</p>
+
 ## About Me
 
 I'm an aspiring **SOC Analyst** focused on Blue Team operations, Detection Engineering, Threat Hunting, and Incident Response.
@@ -18,6 +26,12 @@ I enjoy building hands-on security labs, simulating real-world attack techniques
 My approach is simple: **Build things. Break things. Understand them.**
 
 Currently expanding my knowledge of SIEM operations, Windows and Active Directory security, MITRE ATT&CK, and security automation.
+
+<p align="center">
+  <strong>Blue Team | Detection Engineering | Threat Hunting | Incident Response</strong>
+</p>
+
+---
 
 ## Technical Skills
 
@@ -35,6 +49,8 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 | **Security Visualization** | Grafana |
 | **Web Application Security** | ModSecurity, OWASP Core Rule Set, DVWA |
 | **Operating Systems** | Windows, Windows Server, Linux, Kali Linux |
+
+---
 
 ## Featured Projects
 
@@ -80,6 +96,8 @@ A Python-based command-line reference manager designed for penetration testers t
 - Used **Poetry** for dependency management and project packaging.
 - Focused on maintainability, usability, and clean project structure.
 
+---
+
 ## Certifications & Professional Training
 
 ### Professional Certifications
@@ -104,6 +122,8 @@ A Python-based command-line reference manager designed for penetration testers t
 ### Continuous Learning
 
 Continuously developing practical cybersecurity skills through hands-on labs, security research, attack simulations, detection engineering, and incident response exercises.
+
+---
 
 ## Connect With Me
 
