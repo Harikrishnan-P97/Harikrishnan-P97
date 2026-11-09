@@ -24,13 +24,15 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 | Category | Technologies & Tools |
 |---|---|
 | **SIEM & Security Monitoring** | Wazuh, Splunk |
-| **Endpoint & Network Security** | Sysmon, Suricata, Windows Event Logs |
+| **Endpoint Security & Telemetry** | Sysmon, Windows Event Logs, LimaCharlie |
+| **Network Security & Monitoring** | Suricata, Network Traffic Analysis |
 | **Active Directory Security** | Active Directory, BloodHound, Impacket, NetExec |
-| **Detection Engineering** | Wazuh Custom Rules, MITRE ATT&CK, Sigma fundamentals |
-| **Threat Hunting & Analysis** | Log Analysis, Event Investigation, Detection Validation |
-| **Incident Response** | Alert Triage, Incident Investigation, Containment, Eradication, Recovery |
-| **Security Automation** | n8n, Python, PowerShell, Bash |
-| **Visualization & Dashboards** | Grafana |
+| **Detection Engineering** | Custom Wazuh Rules, MITRE ATT&CK, Detection Validation |
+| **Threat Hunting & Investigation** | Log Analysis, Event Correlation, Alert Triage, Threat Hunting |
+| **SOAR & Case Management** | Shuffle, Tines, TheHive |
+| **Incident Response & Communication** | Incident Investigation, Containment, Eradication, Recovery, Slack |
+| **Security Automation & Scripting** | n8n, Python, PowerShell, Bash |
+| **Security Visualization** | Grafana |
 | **Web Application Security** | ModSecurity, OWASP Core Rule Set, DVWA |
 | **Operating Systems** | Windows, Windows Server, Linux, Kali Linux |
 
