@@ -94,3 +94,9 @@ A Python-based command-line cybersecurity tool focused on developing practical s
 ### Additional Learning
 
 Continuously expanding my knowledge through hands-on labs, cybersecurity training, detection engineering exercises, and practical security research.
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishnan-P97&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishnan-P97&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
