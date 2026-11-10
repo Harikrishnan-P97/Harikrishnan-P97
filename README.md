@@ -56,20 +56,11 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 
 ## Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Skills |
 |---|---|
-| **SIEM & Security Monitoring** | Wazuh, Splunk |
-| **Endpoint Security & Telemetry** | Sysmon, Windows Event Logs, LimaCharlie |
-| **Network Security & Monitoring** | Suricata, Network Traffic Analysis |
-| **Active Directory Security** | Active Directory, BloodHound, Impacket, NetExec |
-| **Detection Engineering** | Custom Wazuh Rules, MITRE ATT&CK, Detection Validation |
-| **Threat Hunting & Investigation** | Log Analysis, Event Correlation, Alert Triage, Threat Hunting |
-| **SOAR & Case Management** | Shuffle, Tines, TheHive |
-| **Security Automation & Scripting** | n8n, Python, PowerShell, Bash |
-| **Incident Response & Communication** | Incident Investigation, Containment, Eradication, Recovery, Slack |
-| **Security Visualization** | Grafana |
-| **Web Application Security** | ModSecurity, OWASP Core Rule Set, DVWA |
-| **Operating Systems** | Windows, Windows Server, Linux, Kali Linux |
+| **Core Security** | SOC Operations, Alert Triage & Investigation, Detection Engineering, Detection Validation, Threat Hunting, Incident Response, DFIR, Active Directory Security, Network Security Monitoring, Web Application Security, MITRE ATT&CK Mapping |
+| **Security Tooling** | **SIEM:** Splunk, Wazuh · <br>**EDR & Telemetry:** LimaCharlie, Sysmon, Windows Event Logs · <br>**Network Security:** Suricata, pfSense · <br>**Web Security:** ModSecurity, OWASP CRS, DVWA, CORS · <br>**SOAR & Case Management:** n8n, Shuffle, Tines, TheHive · <br>**Threat Intelligence:** VirusTotal, AbuseIPDB, Hybrid Analysis, ANY.RUN, Shodan · <br>**Attack Simulation:** GoPhish, Sliver C2 · <br>**AD Assessment:** BloodHound, Impacket, NetExec · <br>**Visualization:** Grafana, Splunk Dashboards, Wazuh Dashboard · <br>**Other:** ngrok, Slack |
+| **Technical Foundation** | **Operating Systems:** Windows, Windows Server, Linux, Kali Linux · <br>**Directory Services:** Active Directory, DNS, Group Policy · <br>**Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, Firewalls, VLANs · <br>**Scripting & Programming:** Python, PowerShell, Bash · <br>**Web Technologies:** HTTP Requests, REST APIs, JSON, CORS · <br>**Development & Version Control:** Git, GitHub, VS Code · <br>**Virtualization:** VirtualBox, Virtual Machines |
 
 ---
 
