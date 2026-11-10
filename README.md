@@ -165,6 +165,17 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
 - **Using Fields in Splunk** – Splunk
 - **Complete Python Bootcamp: From Zero to Hero** – Udemy
 
+### Hands-on Learning
+
+<p align="center">
+  <a href="https://tryhackme.com/p/harikrishnan.p097">
+    <img src="https://img.shields.io/badge/TryHackMe-Blue%20Team-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Blue Team" />
+  </a>
+  <a href="https://tryhackme.com/p/LordNumbnuts">
+    <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-8B2635?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Red Team" />
+  </a>
+</p>
+
 ### Continuous Learning
 
 Continuously developing practical cybersecurity skills through hands-on labs, security research, attack simulations, detection engineering, and incident response exercises.
@@ -190,15 +201,18 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
   </a>
 </p>
 
-### Hands-on Learning
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <a href="https://tryhackme.com/p/harikrishnan.p097">
-    <img src="https://img.shields.io/badge/TryHackMe-Blue%20Team-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Blue Team" />
-  </a>
-  <a href="https://tryhackme.com/p/LordNumbnuts">
-    <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-8B2635?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Red Team" />
-  </a>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Harikrishnan-P97&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"
+    height="165"
+    alt="GitHub Statistics"
+  />
 </p>
+
+---
 
 **Portfolio Website:** Coming Soon
