@@ -77,6 +77,16 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 
 ### 1. SOC Active Directory Detection & Incident Response Lab
 
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows_Server_2022-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows_11-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sysmon-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active_Directory-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerShell-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-475569?style=flat-square" />
+</p>
+
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
 
 An end-to-end Active Directory SOC lab built to simulate adversary activity, engineer and validate security detections, investigate alerts, and execute incident response workflows in a Windows domain environment.
@@ -88,6 +98,25 @@ An end-to-end Active Directory SOC lab built to simulate adversary activity, eng
 - Simulated adversary techniques and mapped detection scenarios to the **MITRE ATT&CK framework**, validating the detection-to-investigation-to-response workflow.
 
 ### 2. SOC Automation & Detection Engineering Lab
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Grafana-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Suricata-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/pfSense-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/LimaCharlie-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Slack-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/ModSecurity-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/CORS-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/ngrok-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/DVWA-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/GoPhish-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sysmon-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sliver_C2-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/VirusTotal-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-475569?style=flat-square" />
+</p>
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
 
@@ -103,6 +132,14 @@ The project brings together attack simulation, security telemetry, detection eng
 
 ### 3. SOAR + EDR Home Lab
 
+<p>
+  <img src="https://img.shields.io/badge/Tines-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/LimaCharlie-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/LaZagne-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Slack-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Email-475569?style=flat-square" />
+</p>
+
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
 
 A hands-on SOAR and EDR integration project demonstrating automated security alert triage, adversary simulation, and endpoint incident response.
@@ -114,6 +151,16 @@ A hands-on SOAR and EDR integration project demonstrating automated security ale
 - Explored end-to-end detection-to-response automation, including alert handling, investigation, and endpoint containment.
 
 ### 4. CliHax – Cybersecurity CLI Tool
+
+<p>
+  <img src="https://img.shields.io/badge/Python-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Click-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rich-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Poetry-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pytest-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ruff-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-475569?style=flat-square" />
+</p>
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/clihax)
 
