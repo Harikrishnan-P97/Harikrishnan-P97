@@ -119,8 +119,6 @@ An integrated, end-to-end SOC simulation environment designed to replicate secur
 - Built a functional **Grafana SOC dashboard** featuring an alert overview and alert queue to simulate real-world SOC monitoring and triage operations.
 - Integrated **Slack** for security alert notifications and **LimaCharlie** for endpoint detection and isolation workflows.
 
-The project brings together attack simulation, security telemetry, detection engineering, alert automation, and response capabilities in a unified SOC environment.
-
 ### 3. SOAR + EDR Home Lab
 
 <p>
@@ -160,10 +158,8 @@ A Python-based command-line reference manager for penetration testers, designed 
 - Developed a structured CLI application using **Python**, **Click**, and **Rich**, with interactive command management and formatted terminal output.
 - Implemented command storage, editing, deletion, keyword searching, category and tag filtering, and one-step clipboard copying.
 - Built a **33-command starter pack** covering reconnaissance, web security, password attacks, SMB, shells, privilege escalation, and file transfers.
-- Implemented **JSON import/export**, machine-readable output, and scripting capabilities to support automation and integration with other tools.
-- Added shell Tab completion for **Bash, Zsh, and Fish**, alongside cross-platform user-specific data storage.
-- Implemented data safety mechanisms, including atomic file writes, backups, input validation, and audit logging for destructive operations.
-- Used **Poetry** for dependency management and packaging, with **Pytest**, **Ruff**, and GitHub Actions CI for testing, code quality, and Python-version compatibility.
+- Added **JSON import/export**, machine-readable output, scripting capabilities, Bash/Zsh/Fish shell completion, and cross-platform user-specific data storage.
+- Implemented data safety mechanisms including atomic file writes, backups, input validation, and audit logging. Used **Poetry**, **Pytest**, **Ruff**, and **GitHub Actions CI** for dependency management, testing, code quality, and compatibility.
 
 ---
 
