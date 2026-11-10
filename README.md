@@ -245,14 +245,16 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
 ### Professional Certifications
 
 - **Certified Ethical Hacker (CEH v12)** – EC-Council
-- **Practical Ethical Hacking (PEH)** – TCM Security
 
 ### Security Training & Completion Certificates
 
-- **Security Analyst Level 1 (SAL1)** – TryHackMe
+- **Practical Ethical Hacking (PEH)** – TCM Security
+- **Security Analyst Level 1 (SAL1) Training Completion** – TryHackMe
 - **Foundations of Operationalizing MITRE ATT&CK** – AttackIQ
 - **Cisco Cybersecurity Training** – Cisco
 - **NDG Linux Certifications** – Cisco Networking Academy
+
+**Credly:** [View my verified badges](https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly)
 
 ### Technical Courses
 
@@ -271,10 +273,6 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
     <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-8B2635?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Red Team" />
   </a>
 </p>
-
-### Continuous Learning
-
-Continuously developing practical cybersecurity skills through hands-on labs, security research, attack simulations, detection engineering, and incident response exercises.
 
 ---
 
