@@ -137,21 +137,60 @@ I document my hands-on cybersecurity projects, technical experiments, attack sim
 
 **1. [Building an Active Directory SOC Lab: Detection Engineering, Threat Hunting & Incident Response with Wazuh](https://medium.com/@harikrishnan.p097/building-an-active-directory-soc-lab-detection-engineering-threat-hunting-incident-response-6f0f6c10cafd)**
 
+<p>
+  <img src="https://img.shields.io/badge/Detection_Engineering-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active_Directory-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wazuh-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-475569?style=flat-square" />
+</p>
+
 A practical walkthrough of building an Active Directory SOC environment, configuring Windows and Sysmon telemetry, developing custom Wazuh detections, and mapping security activity to MITRE ATT&CK.
 
 **2. [Operating an Active Directory SOC Lab: Detection Validation, Investigation & Incident Response](https://medium.com/@harikrishnan.p097/operating-an-active-directory-soc-lab-detection-validation-investigation-incident-response-dd48c06fc5d8)**
+
+<p>
+  <img src="https://img.shields.io/badge/Detection_Validation-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOC_Operations-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident_Response-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wazuh-475569?style=flat-square" />
+</p>
 
 An operational deep dive into validating 42 custom detections, investigating security alerts, connecting detections to incident response, and documenting seven response playbooks.
 
 **3. [Simulating a Real Security Operations Center: An End-to-End SOC Lab Project](https://medium.com/@harikrishnan.p097/simulating-a-real-security-operations-center-an-end-to-end-soc-lab-project-41cd4542d78c)**
 
+<p>
+  <img src="https://img.shields.io/badge/SOC_Operations-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIEM-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Automation-475569?style=flat-square" />
+</p>
+
 Explores the design of an end-to-end SOC simulation environment, bringing together security monitoring, detection engineering, threat intelligence enrichment, and analyst workflows.
 
 **4. [I Built a Phishing Lab to Finally Understand the Cyber Kill Chain](https://medium.com/@harikrishnan.p097/i-built-a-phishing-lab-to-finally-understand-the-cyber-kill-chain-9aad7c10e8c4)**
 
+<p>
+  <img src="https://img.shields.io/badge/Phishing_Simulation-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber_Kill_Chain-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Analysis-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offensive_Security-475569?style=flat-square" />
+</p>
+
 A hands-on exploration of phishing attacks through the Cyber Kill Chain, connecting attacker actions, attack stages, and defensive visibility.
 
 **5. [Inside My Phishing Simulation Lab: Red Team Meets Blue Team](https://medium.com/@harikrishnan.p097/inside-my-phishing-simulation-lab-red-team-meets-blue-team-05731f401bb9)**
+
+<p>
+  <img src="https://img.shields.io/badge/Red_Team-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blue_Team-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phishing_Simulation-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Monitoring-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-475569?style=flat-square" />
+</p>
 
 Documents a phishing simulation lab from both offensive and defensive perspectives, covering attack simulation, telemetry generation, and detection opportunities.
 
