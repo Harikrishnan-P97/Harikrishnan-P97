@@ -30,6 +30,19 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 
 ---
 
+## Cybersecurity Portfolio at a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Detection%20Rules-42%20Validated-1F6FEB?style=for-the-badge" alt="42 Validated Detection Rules" />
+  <img src="https://img.shields.io/badge/IR%20Playbooks-7-238636?style=for-the-badge" alt="7 Incident Response Playbooks" />
+  <img src="https://img.shields.io/badge/SOC%20Dashboards-7-8957E5?style=for-the-badge" alt="7 SOC Dashboards" />
+  <img src="https://img.shields.io/badge/Featured%20Projects-4-0D9488?style=for-the-badge" alt="4 Featured Projects" />
+  <img src="https://img.shields.io/badge/Technical%20Writeups-5-0969DA?style=for-the-badge" alt="5 Technical Writeups" />
+  <img src="https://img.shields.io/badge/Credentials-20%2B-F0883E?style=for-the-badge" alt="20+ Credentials" />
+</p>
+
+---
+
 ## Current Focus
 
 - **Advanced Detection Engineering:** Building advanced detection logic, improving detection coverage, and validating detections against real-world attack techniques.
@@ -66,47 +79,53 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
 
-An end-to-end Active Directory SOC environment built to simulate attacks, engineer detections, investigate security events, and practice incident response.
+An end-to-end Active Directory SOC lab built to simulate adversary activity, engineer and validate security detections, investigate alerts, and execute incident response workflows in a Windows domain environment.
 
-- Deployed a Windows Server Active Directory environment with centralized security monitoring using Wazuh.
-- Engineered and validated **42 custom Wazuh detection rules** across authentication, credential access, privilege escalation, persistence, lateral movement, and defense evasion.
-- Built **7 SOC dashboards** for security monitoring, threat hunting, and detection analysis.
-- Developed **7 incident response playbooks** covering investigation, containment, eradication, and recovery.
-- Simulated adversary techniques and mapped detection scenarios to MITRE ATT&CK.
+- Deployed a Windows Server Active Directory environment with centralized security monitoring and log analysis using Wazuh.
+- Engineered, tested, and validated **42 custom Wazuh detection rules** covering authentication, credential access, privilege escalation, persistence, lateral movement, and defense evasion.
+- Developed **7 SOC dashboards** to support security monitoring, threat hunting, and detection analysis.
+- Created **7 incident response playbooks** covering investigation, containment, eradication, and recovery.
+- Simulated adversary techniques and mapped detection scenarios to the **MITRE ATT&CK framework**, validating the detection-to-investigation-to-response workflow.
 
 ### 2. SOC Automation & Detection Engineering Lab
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
 
-An integrated SOC simulation environment combining security monitoring, detection engineering, alert automation, and incident response workflows.
+An integrated, end-to-end SOC simulation environment designed to replicate security monitoring and incident response operations across network, web application, and phishing attack scenarios.
 
-- Integrated **Splunk, Suricata, and ModSecurity** for centralized security event monitoring.
-- Simulated web application attacks against DVWA and analyzed ModSecurity/OWASP CRS alerts.
-- Developed automated alert processing workflows using **n8n**.
-- Integrated **Grafana** for SOC alert visualization and monitoring.
-- Connected **Slack** for security alert notifications and **LimaCharlie** for endpoint isolation workflows.
+- Integrated **Splunk, Suricata, and ModSecurity with OWASP CRS** for centralized security event collection, monitoring, and analysis.
+- Simulated **network-level attacks, web application attacks using DVWA, and phishing campaigns using GoPhish**, with Sliver C2 supporting adversary simulation.
+- Developed **10 n8n automation workflows** to automate security alert processing and incident response tasks.
+- Built a functional **Grafana SOC dashboard** featuring an alert overview and alert queue to simulate real-world SOC monitoring and triage operations.
+- Integrated **Slack** for security alert notifications and **LimaCharlie** for endpoint detection and isolation workflows.
+
+The project brings together attack simulation, security telemetry, detection engineering, alert automation, and response capabilities in a unified SOC environment.
 
 ### 3. SOAR + EDR Home Lab
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
 
-A hands-on SOAR and EDR integration project demonstrating automated security alert triage and endpoint response.
+A hands-on SOAR and EDR integration project demonstrating automated security alert triage, adversary simulation, and endpoint incident response.
 
-- Built a SOAR automation workflow using **Tines**.
-- Integrated **LimaCharlie EDR** for endpoint monitoring and host isolation.
-- Connected **Slack and Email** for security notifications and incident communication.
-- Explored automated detection-to-response workflows and endpoint containment.
+- Built automated security orchestration workflows using **Tines** to process and respond to security alerts.
+- Integrated **LimaCharlie EDR** for endpoint monitoring, threat detection, and host isolation.
+- Simulated adversary behavior, including **credential dumping using LaZagne**, to generate security events and test the response workflow.
+- Integrated **Slack and Email** for automated security notifications and incident communication.
+- Explored end-to-end detection-to-response automation, including alert handling, investigation, and endpoint containment.
 
 ### 4. CliHax – Cybersecurity CLI Tool
 
 [GitHub Repository](https://github.com/Harikrishnan-P97/clihax)
 
-A Python-based command-line reference manager designed for penetration testers to store, search, and quickly retrieve commonly used security tool syntax.
+A Python-based command-line reference manager for penetration testers, designed to organize, search, manage, and quickly retrieve commonly used security tool commands without leaving the terminal.
 
-- Developed a structured command-line application using **Python**.
-- Implemented functionality for storing, searching, and recalling penetration-testing tool commands.
-- Used **Poetry** for dependency management and project packaging.
-- Focused on maintainability, usability, and clean project structure.
+- Developed a structured CLI application using **Python**, **Click**, and **Rich**, with interactive command management and formatted terminal output.
+- Implemented command storage, editing, deletion, keyword searching, category and tag filtering, and one-step clipboard copying.
+- Built a **33-command starter pack** covering reconnaissance, web security, password attacks, SMB, shells, privilege escalation, and file transfers.
+- Implemented **JSON import/export**, machine-readable output, and scripting capabilities to support automation and integration with other tools.
+- Added shell Tab completion for **Bash, Zsh, and Fish**, alongside cross-platform user-specific data storage.
+- Implemented data safety mechanisms, including atomic file writes, backups, input validation, and audit logging for destructive operations.
+- Used **Poetry** for dependency management and packaging, with **Pytest**, **Ruff**, and GitHub Actions CI for testing, code quality, and Python-version compatibility.
 
 ---
 
