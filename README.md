@@ -114,16 +114,16 @@ I learn by building hands-on security labs, simulating real-world attack techniq
 ### 1. SOC Active Directory Detection & Incident Response Lab
 
 <p>
-  <img src="https://img.shields.io/badge/Wazuh-2B6CB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows_Server_2022-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows_11-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sysmon-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Active_Directory-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/PowerShell-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Windows%20Server%202022-3B82F6?style=flat-square" alt="Windows Server 2022" />
+  <img src="https://img.shields.io/badge/Windows%2011-3B82F6?style=flat-square" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Sysmon-3B82F6?style=flat-square" alt="Sysmon" />
+  <img src="https://img.shields.io/badge/Active%20Directory-3B82F6?style=flat-square" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-3B82F6?style=flat-square" alt="MITRE ATT&CK" />
 </p>
 
-[GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
+[![View repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harikrishnan-P97/SOC-Active-Directory-Detection-and-Response-Lab)
 
 An end-to-end Active Directory SOC lab built to simulate adversary activity, engineer and validate security detections, investigate alerts, and execute incident response workflows in a Windows domain environment.
 
@@ -136,25 +136,24 @@ An end-to-end Active Directory SOC lab built to simulate adversary activity, eng
 ### 2. SOC Automation & Detection Engineering Lab
 
 <p>
-  <img src="https://img.shields.io/badge/Splunk-2B6CB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Grafana-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Suricata-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/pfSense-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/LimaCharlie-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slack-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/ModSecurity-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/CORS-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/ngrok-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/DVWA-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/GoPhish-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sysmon-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sliver_C2-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/VirusTotal-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Splunk-06B6D4?style=flat-square" alt="Splunk" />
+  <img src="https://img.shields.io/badge/n8n-06B6D4?style=flat-square" alt="n8n" />
+  <img src="https://img.shields.io/badge/Grafana-06B6D4?style=flat-square" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Suricata-06B6D4?style=flat-square" alt="Suricata" />
+  <img src="https://img.shields.io/badge/pfSense-06B6D4?style=flat-square" alt="pfSense" />
+  <img src="https://img.shields.io/badge/LimaCharlie-06B6D4?style=flat-square" alt="LimaCharlie" />
+  <img src="https://img.shields.io/badge/ModSecurity-06B6D4?style=flat-square" alt="ModSecurity" />
+  <img src="https://img.shields.io/badge/OWASP%20CRS-06B6D4?style=flat-square" alt="OWASP CRS" />
+  <img src="https://img.shields.io/badge/DVWA-06B6D4?style=flat-square" alt="DVWA" />
+  <img src="https://img.shields.io/badge/GoPhish-06B6D4?style=flat-square" alt="GoPhish" />
+  <img src="https://img.shields.io/badge/Sliver%20C2-06B6D4?style=flat-square" alt="Sliver C2" />
+  <img src="https://img.shields.io/badge/Sysmon-06B6D4?style=flat-square" alt="Sysmon" />
+  <img src="https://img.shields.io/badge/VirusTotal-06B6D4?style=flat-square" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/Slack-06B6D4?style=flat-square" alt="Slack" />
+  <img src="https://img.shields.io/badge/ngrok-06B6D4?style=flat-square" alt="ngrok" />
 </p>
 
-[GitHub Repository](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
+[![View repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harikrishnan-P97/SOC-Automation-Detection-Engineering-Lab)
 
 An integrated, end-to-end SOC simulation environment designed to replicate security monitoring and incident response operations across network, web application, and phishing attack scenarios.
 
@@ -167,14 +166,14 @@ An integrated, end-to-end SOC simulation environment designed to replicate secur
 ### 3. SOAR + EDR Home Lab
 
 <p>
-  <img src="https://img.shields.io/badge/Tines-2B6CB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/LimaCharlie-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/LaZagne-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slack-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Email-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tines-8B5CF6?style=flat-square" alt="Tines" />
+  <img src="https://img.shields.io/badge/LimaCharlie-8B5CF6?style=flat-square" alt="LimaCharlie" />
+  <img src="https://img.shields.io/badge/LaZagne-8B5CF6?style=flat-square" alt="LaZagne" />
+  <img src="https://img.shields.io/badge/Slack-8B5CF6?style=flat-square" alt="Slack" />
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square" alt="Email" />
 </p>
 
-[GitHub Repository](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
+[![View repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harikrishnan-P97/SOAR-EDR-Home-Lab)
 
 A hands-on SOAR and EDR integration project demonstrating automated security alert triage, adversary simulation, and endpoint incident response.
 
@@ -187,24 +186,24 @@ A hands-on SOAR and EDR integration project demonstrating automated security ale
 ### 4. CliHax – Cybersecurity CLI Tool
 
 <p>
-  <img src="https://img.shields.io/badge/Python-2B6CB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Click-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rich-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Poetry-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pytest-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ruff-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-14B8A6?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Click-14B8A6?style=flat-square" alt="Click" />
+  <img src="https://img.shields.io/badge/Rich-14B8A6?style=flat-square" alt="Rich" />
+  <img src="https://img.shields.io/badge/Poetry-14B8A6?style=flat-square" alt="Poetry" />
+  <img src="https://img.shields.io/badge/Pytest-14B8A6?style=flat-square" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ruff-14B8A6?style=flat-square" alt="Ruff" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-14B8A6?style=flat-square" alt="GitHub Actions" />
 </p>
 
-[GitHub Repository](https://github.com/Harikrishnan-P97/clihax)
+[![View repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harikrishnan-P97/clihax)
 
 A Python-based command-line reference manager for penetration testers, designed to organize, search, manage, and quickly retrieve commonly used security tool commands without leaving the terminal.
 
 - Developed a structured CLI application using **Python**, **Click**, and **Rich**, with interactive command management and formatted terminal output.
 - Implemented command storage, editing, deletion, keyword searching, category and tag filtering, and one-step clipboard copying.
 - Built a **33-command starter pack** covering reconnaissance, web security, password attacks, SMB, shells, privilege escalation, and file transfers.
-- Added **JSON import/export**, machine-readable output, scripting capabilities, Bash/Zsh/Fish shell completion, and cross-platform user-specific data storage.
-- Implemented data safety mechanisms including atomic file writes, backups, input validation, and audit logging. Used **Poetry**, **Pytest**, **Ruff**, and **GitHub Actions CI** for dependency management, testing, code quality, and compatibility.
+- Added **JSON import/export**, machine-readable output, scripting capabilities, Bash/Zsh/Fish shell completion, and per-user data storage that follows each operating system's conventions.
+- Implemented data safety mechanisms including atomic file writes, and a `drop` command with confirmation, an optional backup and audit logging. Used **Poetry**, **Pytest**, **Ruff**, and **GitHub Actions CI** for dependency management, testing, code quality, and compatibility.
 
 ---
 
