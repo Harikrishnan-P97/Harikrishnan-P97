@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Harikrishnan.P</h1>
 
-<h3>Aspiring SOC Analyst | Blue Team | Detection Engineer</h3>
+<h3>Aspiring SOC Analyst | Blue Team | Detection Engineering</h3>
 
 <p>
 Building hands-on cybersecurity projects focused on SOC Operations,
@@ -341,5 +341,3 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
 </p>
 
 ---
-
-**Portfolio Website:** Coming Soon
