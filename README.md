@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Harikrishnan.P</h1>
 
-<h3>Aspiring SOC Analyst | Blue Team | Detection Engineering</h3>
+<h3>Aspiring SOC Analyst | Blue Team | Detection Engineer</h3>
 
 <p>
 Building hands-on cybersecurity projects focused on SOC Operations,
@@ -33,6 +33,21 @@ Active Directory Security, and Security Automation.
 
 </div>
 
+<br>
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Projects-4-3B82F6?style=flat-square&labelColor=1F2A44" alt="4 projects" />
+  <img src="https://img.shields.io/badge/AD%20Lab%20Detections-42-06B6D4?style=flat-square&labelColor=1F2A44" alt="42 detections in the Active Directory lab" />
+  <img src="https://img.shields.io/badge/SOC%20Lab%20Detection%20Rules-20%2B-8B5CF6?style=flat-square&labelColor=1F2A44" alt="20 plus detection rules in the SOC automation lab" />
+  <img src="https://img.shields.io/badge/Response%20Playbooks-7-14B8A6?style=flat-square&labelColor=1F2A44" alt="7 incident response playbooks" />
+  <img src="https://img.shields.io/badge/Technical%20Writeups-5-3B82F6?style=flat-square&labelColor=1F2A44" alt="5 technical writeups" />
+  <img src="https://img.shields.io/badge/Credentials-25-06B6D4?style=flat-square&labelColor=1F2A44" alt="25 credentials" />
+</p>
+
+</div>
+
 </div>
 
 ---
@@ -55,28 +70,14 @@ Active Directory Security, and Security Automation.
 
 I'm an aspiring **SOC Analyst** focused on Blue Team operations, Detection Engineering, Threat Hunting, and Incident Response.
 
-I enjoy building hands-on security labs, simulating real-world attack techniques, analyzing security telemetry, and developing detections that turn raw events into actionable security insights.
+I learn by building hands-on security labs, simulating real-world attack techniques, analyzing security telemetry, and developing detections that turn raw events into actionable security insights.
 
-My approach is simple: **Build things. Break things. Understand them.**
+**How I approach SOC work**
 
-Currently expanding my knowledge of SIEM operations, Windows and Active Directory security, MITRE ATT&CK, and security automation.
-
-<p align="center">
-  <strong>Blue Team | Detection Engineering | Threat Hunting | Incident Response</strong>
-</p>
-
----
-
-## Cybersecurity Portfolio at a Glance
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Detection%20Rules-42%20Validated-1F6FEB?style=for-the-badge" alt="42 Validated Detection Rules" />
-  <img src="https://img.shields.io/badge/IR%20Playbooks-7-238636?style=for-the-badge" alt="7 Incident Response Playbooks" />
-  <img src="https://img.shields.io/badge/SOC%20Dashboards-7-8957E5?style=for-the-badge" alt="7 SOC Dashboards" />
-  <img src="https://img.shields.io/badge/Featured%20Projects-4-0D9488?style=for-the-badge" alt="4 Featured Projects" />
-  <img src="https://img.shields.io/badge/Technical%20Writeups-5-0969DA?style=for-the-badge" alt="5 Technical Writeups" />
-  <img src="https://img.shields.io/badge/Credentials-20%2B-F0883E?style=for-the-badge" alt="20+ Credentials" />
-</p>
+- **Telemetry first:** confirm events are generated, collected and parsed before writing any rule logic.
+- **Validate every detection:** test each rule against controlled attack activity and trace it from behavior to alert.
+- **Detection to response:** tie alerts to incident playbooks so every detection ends with a clear next step.
+- **Tune and document:** tune noisy rules, correct wrong mappings and document the work so it can be reproduced.
 
 ---
 
@@ -85,7 +86,7 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 - **Advanced Detection Engineering:** Building advanced detection logic, improving detection coverage, and validating detections against real-world attack techniques.
 - **AI-Aided SOC:** Exploring AI-driven security operations, intelligent alert analysis, investigation assistance, and automated threat detection.
 - **Digital Forensics & Incident Response (DFIR):** Developing skills in digital evidence collection, forensic analysis, incident investigation, and response.
-- **Threat Hunting:** Proactively identifying suspicious activity, investigating threat behaviours, and uncovering hidden threats through security telemetry.
+- **Threat Hunting:** Proactively identifying suspicious activity, investigating threat behaviors, and uncovering hidden threats through security telemetry.
 - **Security Automation:** Developing automated security workflows, alert enrichment, orchestration, and incident response processes.
 - **Purple Teaming:** Bridging offensive and defensive security through adversary emulation, attack simulation, detection validation, and collaborative security testing.
 
@@ -93,11 +94,18 @@ Currently expanding my knowledge of SIEM operations, Windows and Active Director
 
 ## Technical Skills
 
-| Category | Skills |
+| Area | Tools and skills |
 |---|---|
-| **Core Security** | SOC Operations, Alert Triage & Investigation, Detection Engineering, Detection Validation, Threat Hunting, Incident Response, DFIR, Active Directory Security, Network Security Monitoring, Web Application Security, MITRE ATT&CK Mapping |
-| **Security Tooling** | **SIEM:** Splunk, Wazuh · <br>**EDR & Telemetry:** LimaCharlie, Sysmon, Windows Event Logs · <br>**Network Security:** Suricata, pfSense · <br>**Web Security:** ModSecurity, OWASP CRS, DVWA, CORS · <br>**SOAR & Case Management:** n8n, Shuffle, Tines, TheHive · <br>**Threat Intelligence:** VirusTotal, AbuseIPDB, Hybrid Analysis, ANY.RUN, Shodan · <br>**Attack Simulation:** GoPhish, Sliver C2 · <br>**AD Assessment:** BloodHound, Impacket, NetExec · <br>**Visualization:** Grafana, Splunk Dashboards, Wazuh Dashboard · <br>**Other:** ngrok, Slack |
-| **Technical Foundation** | **Operating Systems:** Windows, Windows Server, Linux, Kali Linux · <br>**Directory Services:** Active Directory, DNS, Group Policy · <br>**Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, Firewalls, VLANs · <br>**Scripting & Programming:** Python, PowerShell, Bash · <br>**Web Technologies:** HTTP Requests, REST APIs, JSON, CORS · <br>**Development & Version Control:** Git, GitHub, VS Code · <br>**Virtualization:** VirtualBox, Virtual Machines |
+| **Core security** | <img src="https://img.shields.io/badge/SOC%20Operations-3B82F6?style=flat-square" alt="SOC Operations" /> <img src="https://img.shields.io/badge/Alert%20Triage-3B82F6?style=flat-square" alt="Alert Triage" /> <img src="https://img.shields.io/badge/Investigation-3B82F6?style=flat-square" alt="Investigation" /> <img src="https://img.shields.io/badge/Detection%20Engineering-3B82F6?style=flat-square" alt="Detection Engineering" /> <img src="https://img.shields.io/badge/Detection%20Validation-3B82F6?style=flat-square" alt="Detection Validation" /> <img src="https://img.shields.io/badge/Threat%20Hunting-3B82F6?style=flat-square" alt="Threat Hunting" /> <img src="https://img.shields.io/badge/Incident%20Response-3B82F6?style=flat-square" alt="Incident Response" /> <img src="https://img.shields.io/badge/Active%20Directory%20Security-3B82F6?style=flat-square" alt="Active Directory Security" /> <img src="https://img.shields.io/badge/Network%20Security%20Monitoring-3B82F6?style=flat-square" alt="Network Security Monitoring" /> <img src="https://img.shields.io/badge/Web%20Application%20Security-3B82F6?style=flat-square" alt="Web Application Security" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20Mapping-3B82F6?style=flat-square" alt="MITRE ATT&CK Mapping" /> |
+| **SIEM and dashboards** | <img src="https://img.shields.io/badge/Splunk-06B6D4?style=flat-square" alt="Splunk" /> <img src="https://img.shields.io/badge/Wazuh-06B6D4?style=flat-square" alt="Wazuh" /> <img src="https://img.shields.io/badge/Grafana-06B6D4?style=flat-square" alt="Grafana" /> |
+| **Endpoint and telemetry** | <img src="https://img.shields.io/badge/Sysmon-8B5CF6?style=flat-square" alt="Sysmon" /> <img src="https://img.shields.io/badge/Windows%20Event%20Logs-8B5CF6?style=flat-square" alt="Windows Event Logs" /> <img src="https://img.shields.io/badge/LimaCharlie%20EDR-8B5CF6?style=flat-square" alt="LimaCharlie EDR" /> |
+| **Network and web security** | <img src="https://img.shields.io/badge/Suricata%20IDS-14B8A6?style=flat-square" alt="Suricata IDS" /> <img src="https://img.shields.io/badge/pfSense-14B8A6?style=flat-square" alt="pfSense" /> <img src="https://img.shields.io/badge/ModSecurity%20WAF-14B8A6?style=flat-square" alt="ModSecurity WAF" /> <img src="https://img.shields.io/badge/OWASP%20CRS-14B8A6?style=flat-square" alt="OWASP CRS" /> <img src="https://img.shields.io/badge/DVWA-14B8A6?style=flat-square" alt="DVWA" /> <img src="https://img.shields.io/badge/Wireshark-14B8A6?style=flat-square" alt="Wireshark" /> |
+| **SOAR and automation** | <img src="https://img.shields.io/badge/n8n-3B82F6?style=flat-square" alt="n8n" /> <img src="https://img.shields.io/badge/Tines-3B82F6?style=flat-square" alt="Tines" /> <img src="https://img.shields.io/badge/Shuffle-3B82F6?style=flat-square" alt="Shuffle" /> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack" /> |
+| **Threat intelligence** | <img src="https://img.shields.io/badge/VirusTotal-06B6D4?style=flat-square" alt="VirusTotal" /> <img src="https://img.shields.io/badge/AbuseIPDB-06B6D4?style=flat-square" alt="AbuseIPDB" /> <img src="https://img.shields.io/badge/URLScan.io-06B6D4?style=flat-square" alt="URLScan.io" /> <img src="https://img.shields.io/badge/Hybrid%20Analysis-06B6D4?style=flat-square" alt="Hybrid Analysis" /> <img src="https://img.shields.io/badge/ANY.RUN-06B6D4?style=flat-square" alt="ANY.RUN" /> |
+| **Attack simulation** | <img src="https://img.shields.io/badge/Kali%20Linux-8B5CF6?style=flat-square" alt="Kali Linux" /> <img src="https://img.shields.io/badge/GoPhish-8B5CF6?style=flat-square" alt="GoPhish" /> <img src="https://img.shields.io/badge/Sliver%20C2-8B5CF6?style=flat-square" alt="Sliver C2" /> <img src="https://img.shields.io/badge/Mimikatz-8B5CF6?style=flat-square" alt="Mimikatz" /> <img src="https://img.shields.io/badge/LaZagne-8B5CF6?style=flat-square" alt="LaZagne" /> <img src="https://img.shields.io/badge/Impacket-8B5CF6?style=flat-square" alt="Impacket" /> |
+| **Directory services** | <img src="https://img.shields.io/badge/Active%20Directory-14B8A6?style=flat-square" alt="Active Directory" /> <img src="https://img.shields.io/badge/Group%20Policy-14B8A6?style=flat-square" alt="Group Policy" /> <img src="https://img.shields.io/badge/DNS-14B8A6?style=flat-square" alt="DNS" /> <img src="https://img.shields.io/badge/DHCP-14B8A6?style=flat-square" alt="DHCP" /> |
+| **Also used in labs** | <img src="https://img.shields.io/badge/TheHive-475569?style=flat-square" alt="TheHive" /> <img src="https://img.shields.io/badge/BloodHound-475569?style=flat-square" alt="BloodHound" /> <img src="https://img.shields.io/badge/NetExec-475569?style=flat-square" alt="NetExec" /> <img src="https://img.shields.io/badge/Shodan-475569?style=flat-square" alt="Shodan" /> |
+| **Foundations** | <img src="https://img.shields.io/badge/Windows-475569?style=flat-square" alt="Windows" /> <img src="https://img.shields.io/badge/Windows%20Server-475569?style=flat-square" alt="Windows Server" /> <img src="https://img.shields.io/badge/Linux-475569?style=flat-square" alt="Linux" /> <img src="https://img.shields.io/badge/TCP%2FIP-475569?style=flat-square" alt="TCP/IP" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-475569?style=flat-square" alt="HTTP/HTTPS" /> <img src="https://img.shields.io/badge/REST%20APIs-475569?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JSON-475569?style=flat-square" alt="JSON" /> <img src="https://img.shields.io/badge/Python-475569?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/PowerShell-475569?style=flat-square" alt="PowerShell" /> <img src="https://img.shields.io/badge/Bash-475569?style=flat-square" alt="Bash" /> <img src="https://img.shields.io/badge/Git-475569?style=flat-square" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-475569?style=flat-square" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-475569?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/VirtualBox-475569?style=flat-square" alt="VirtualBox" /> |
 
 ---
 
@@ -327,17 +335,3 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=Harikrishnan-P97&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"
-    height="165"
-    alt="GitHub Statistics"
-  />
-</p>
-
----
