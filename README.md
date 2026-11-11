@@ -173,10 +173,11 @@ An end-to-end Active Directory SOC lab built to simulate adversary activity, eng
 
 An integrated, end-to-end SOC simulation environment designed to replicate security monitoring and incident response operations across network, web application, and phishing attack scenarios.
 
+- Wrote **20+ detection rules** across network, web application and endpoint telemetry.
 - Integrated **Splunk, Suricata, and ModSecurity with OWASP CRS** for centralized security event collection, monitoring, and analysis.
 - Simulated **network-level attacks, web application attacks using DVWA, and phishing campaigns using GoPhish**, with Sliver C2 supporting adversary simulation.
 - Developed **10 n8n automation workflows** to automate security alert processing and incident response tasks.
-- Built a functional **Grafana SOC dashboard** featuring an alert overview and alert queue to simulate real-world SOC monitoring and triage operations.
+- Built **2 Grafana dashboards** (35+ panels) covering the alert overview, alert queue and alert investigation to simulate real-world SOC monitoring and triage.
 - Integrated **Slack** for security alert notifications and **LimaCharlie** for endpoint detection and isolation workflows.
 
 ### 3. SOAR + EDR Home Lab
@@ -325,7 +326,7 @@ Digital badges can be verified on Credly. My certifications and training are als
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harikrishnanp097">
-    <img src="https://img.shields.io/badge/Verify%20on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Verify on LinkedIn" />
+    <img src="https://img.shields.io/badge/View%20on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="View on LinkedIn" />
   </a>
   <a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly">
     <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=flat-square&logo=credly&logoColor=white" alt="Verify on Credly" />
