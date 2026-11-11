@@ -1,10 +1,38 @@
- <div align="center">
-  <img src="./assets/hero-banner.png" alt="Harikrishnan | Aspiring SOC Analyst | Blue Team | Detection Engineering" width="100%" />
+
+<div align="center">
+
+<h1>Hi, I'm Harikrishnan.P</h1>
+
+<h3>Aspiring SOC Analyst | Blue Team | Detection Engineer</h3>
+
+<p>
+Building hands-on cybersecurity projects focused on SOC Operations,
+Detection Engineering, Threat Hunting, Incident Response,
+Active Directory Security, and Security Automation.
+</p>
+
+<br>
+
+<a href="https://github.com/Harikrishnan-P97">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/harikrishnanp097">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/harikrishnan.p097">
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://medium.com/@harikrishnan.p097">
+  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 </div>
 
-<br/>
+---
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="#about-me">About</a> •
   <a href="#current-focus">Current Focus</a> •
   <a href="#technical-skills">Skills</a> •
@@ -12,7 +40,9 @@
   <a href="#technical-writing">Writing</a> •
   <a href="#certifications--professional-training">Certifications</a> •
   <a href="#connect-with-me">Contact</a>
-</p>
+</div>
+
+<br>
 
 ## About Me
 
