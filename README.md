@@ -13,18 +13,25 @@ Active Directory Security, and Security Automation.
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/Harikrishnan-P97">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harikrishnanp097">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/harikrishnan.p097">
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@harikrishnan.p097">
-  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
 </a>
+<a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly">
+  <img src="https://img.shields.io/badge/Credly-FF6B35?style=flat&logo=credly&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/harikrishnan.p097">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" />
+</a>
+
+</div>
 
 </div>
 
