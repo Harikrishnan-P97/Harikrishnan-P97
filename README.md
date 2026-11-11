@@ -290,7 +290,7 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
 
 <p align="center">
   <a href="https://medium.com/@harikrishnan.p097">
-    <img src="https://img.shields.io/badge/Medium-Explore%20All%20Articles-12100E?style=flat-square&logo=medium&logoColor=white" alt="Explore all Medium articles" />
+    <img src="https://img.shields.io/badge/Medium-Explore%20All%20Articles-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=12100E&color=12100E" alt="Explore all Medium articles" />
   </a>
 </p>
 
