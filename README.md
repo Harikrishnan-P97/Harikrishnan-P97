@@ -288,13 +288,15 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
 
 ### Security Training & Completion Certificates
 
-- **Practical Ethical Hacking (PEH)** – TCM Security
-- **Security Analyst Level 1 (SAL1) Training Completion** – TryHackMe
+- **SOC Level 1 Learning Path** (certificate of completion, 65+ hours) – TryHackMe
+- **Security Operations Center in Practice** – IBM SkillsBuild
 - **Foundations of Operationalizing MITRE ATT&CK** – AttackIQ
-- **Cisco Cybersecurity Training** – Cisco
-- **NDG Linux Certifications** – Cisco Networking Academy
-
-**Credly:** [View my verified badges](https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly)
+- **Countering Ransomware with MITRE ATT&CK** – AttackIQ
+- **SOC Fundamentals** – LetsDefend
+- **Junior Cybersecurity Analyst Career Path** – Cisco
+- **Cybersecurity Analyst Job Simulation** – Tata, via Forage
+- **Practical Ethical Hacking (PEH)** – TCM Security
+- **NDG Linux Essentials and Linux Unhatched** – Cisco Networking Academy
 
 ### Technical Courses
 
@@ -302,6 +304,17 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
 - **Introduction to Splunk** – Splunk
 - **Using Fields in Splunk** – Splunk
 - **Complete Python Bootcamp: From Zero to Hero** – Udemy
+
+Digital badges can be verified on Credly. My certifications and training are also listed on LinkedIn.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harikrishnanp097">
+    <img src="https://img.shields.io/badge/Verify%20on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Verify on LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly">
+    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6B35?style=flat-square&logo=credly&logoColor=white" alt="Verify on Credly" />
+  </a>
+</p>
 
 ### Hands-on Learning
 
