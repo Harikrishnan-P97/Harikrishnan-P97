@@ -338,12 +338,15 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harikrishnan.p097@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://medium.com/@harikrishnan.p097">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
+  <a href="https://www.credly.com/users/harikrishnan-p.f4fb62d6/badges/credly">
+    <img src="https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
+
+<br>
+<br>
