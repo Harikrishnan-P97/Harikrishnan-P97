@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Harikrishnan.P</h1>
 
-<h3>Aspiring SOC Analyst | Detection Engineering | Security Automation | Incident Response</h3>
+<h3>Aspiring SOC Analyst | Blue Team | Detection Engineer</h3>
 
 <p>
 Building hands-on cybersecurity projects focused on SOC Operations,
@@ -55,13 +55,29 @@ Active Directory Security, and Security Automation.
 <br>
 
 <div align="center">
-  <a href="#about-me">About</a> •
-  <a href="#current-focus">Current Focus</a> •
-  <a href="#technical-skills">Skills</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#technical-writing">Writing</a> •
-  <a href="#certifications--professional-training">Certifications</a> •
-  <a href="#connect-with-me">Contact</a>
+
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/About_Me-2563EB?style=flat" />
+</a>
+<a href="#current-focus">
+  <img src="https://img.shields.io/badge/Current_Focus-2563EB?style=flat" />
+</a>
+<a href="#technical-skills">
+  <img src="https://img.shields.io/badge/Technical_Skills-2563EB?style=flat" />
+</a>
+<a href="#featured-projects">
+  <img src="https://img.shields.io/badge/Featured_Projects-2563EB?style=flat" />
+</a>
+<a href="#technical-writing">
+  <img src="https://img.shields.io/badge/Technical_Writing-2563EB?style=flat" />
+</a>
+<a href="#certifications--professional-training">
+  <img src="https://img.shields.io/badge/Certifications-2563EB?style=flat" />
+</a>
+<a href="#connect-with-me">
+  <img src="https://img.shields.io/badge/Contact-2563EB?style=flat" />
+</a>
+
 </div>
 
 <br>
@@ -347,6 +363,5 @@ I'm always open to connecting with cybersecurity professionals, discussing secur
     <img src="https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
-
 <br>
 <br>
