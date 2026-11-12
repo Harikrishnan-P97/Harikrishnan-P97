@@ -78,8 +78,6 @@ So far that means four projects, 42 custom detections in an Active Directory lab
 - **Detection to response:** tie alerts to incident playbooks so every detection ends with a clear next step.
 - **Tune and document:** tune noisy rules, correct wrong mappings and document the work so it can be reproduced.
 
----
-
 ## Current Focus
 
 - **Advanced detection engineering:** writing better detection logic, widening coverage and testing rules against real attack techniques.
@@ -90,9 +88,8 @@ So far that means four projects, 42 custom detections in an Active Directory lab
 - **Purple teaming:** running attack simulations to test and improve detections.
 - **LLM and API security:** learning how these systems are attacked and how to defend them.
 
----
-
 ## Technical Skills
+
 Tools and skills I've used across my projects and labs, grouped by area.
 
 | Area | Tools and skills |
@@ -108,8 +105,6 @@ Tools and skills I've used across my projects and labs, grouped by area.
 | **Frameworks** | <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-3B82F6?style=flat-square" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/Cyber%20Kill%20Chain-3B82F6?style=flat-square" alt="Cyber Kill Chain" /> |
 | **Also used in labs** | <img src="https://img.shields.io/badge/TheHive-475569?style=flat-square" alt="TheHive" /> <img src="https://img.shields.io/badge/BloodHound-475569?style=flat-square" alt="BloodHound" /> <img src="https://img.shields.io/badge/NetExec-475569?style=flat-square" alt="NetExec" /> <img src="https://img.shields.io/badge/Shodan-475569?style=flat-square" alt="Shodan" /> |
 | **Foundations** | <img src="https://img.shields.io/badge/Windows-475569?style=flat-square" alt="Windows" /> <img src="https://img.shields.io/badge/Windows%20Server-475569?style=flat-square" alt="Windows Server" /> <img src="https://img.shields.io/badge/Linux-475569?style=flat-square" alt="Linux" /> <img src="https://img.shields.io/badge/TCP%2FIP-475569?style=flat-square" alt="TCP/IP" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-475569?style=flat-square" alt="HTTP/HTTPS" /> <img src="https://img.shields.io/badge/REST%20APIs-475569?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JSON-475569?style=flat-square" alt="JSON" /> <img src="https://img.shields.io/badge/Python-475569?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/PowerShell-475569?style=flat-square" alt="PowerShell" /> <img src="https://img.shields.io/badge/Bash-475569?style=flat-square" alt="Bash" /> <img src="https://img.shields.io/badge/Git-475569?style=flat-square" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-475569?style=flat-square" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-475569?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/VirtualBox-475569?style=flat-square" alt="VirtualBox" /> |
-
----
 
 ## Featured Projects
 
@@ -223,8 +218,6 @@ A Python-based command-line reference manager for penetration testers, designed 
 - Implemented data safety mechanisms including atomic file writes, and a `drop` command with confirmation, an optional backup and audit logging.
 - Backed by **200+ pytest tests**, Ruff linting and GitHub Actions CI on Python 3.10 to 3.14, and packaged with **Poetry** and installable with pipx.
 
----
-
 ## Technical Writing
 
 I document my hands-on cybersecurity projects, technical experiments, attack simulations, detection engineering approaches, and security research through detailed technical articles. Five articles published on Medium between May and October 2026.
@@ -306,8 +299,6 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
   </a>
 </p>
 
----
-
 ## Certifications & Professional Training
 
 25 credentials in total. The ones most relevant to SOC and detection work are listed first, and the rest are in the collapsed list below.
@@ -383,8 +374,6 @@ Documents a phishing simulation lab from both offensive and defensive perspectiv
     <img src="https://img.shields.io/badge/TryHackMe-Red%20Team-8B2635?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Red Team" />
   </a>
 </p>
-
----
 
 ## Connect With Me
 
